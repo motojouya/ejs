@@ -1,24 +1,21 @@
 {
-  "name": "ejs",
+  "name": "ejsql",
   "description": "Embedded JavaScript templates",
   "keywords": [
     "template",
     "engine",
     "ejs"
   ],
-  "version": "2.6.1",
-  "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
-  "contributors": [
-    "Timothy Gu <timothygu99@gmail.com> (https://timothygu.github.io)"
-  ],
+  "version": "0.0.1",
+  "author": "Takuya Sugiyama <motojouya@gmail.com>",
   "license": "Apache-2.0",
-  "main": "./lib/ejs.js",
+  "main": "./lib/ejsql.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mde/ejs.git"
+    "url": "git://github.com/motojouya/ejsql.git"
   },
-  "bugs": "https://github.com/mde/ejs/issues",
-  "homepage": "https://github.com/mde/ejs",
+  "bugs": "https://github.com/motojouya/ejsql/issues",
+  "homepage": "https://github.com/motojouya/ejsql",
   "dependencies": {},
   "devDependencies": {
     "browserify": "^13.1.1",
