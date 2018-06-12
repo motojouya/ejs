@@ -1,6 +1,6 @@
 {
   "name": "ejsql",
-  "description": "Embedded JavaScript templates",
+  "description": "Embedded JavaScript templates for SQL",
   "keywords": [
     "template",
     "engine",
@@ -36,6 +36,7 @@
     "lint": "eslint \"**/*.js\" Jakefile",
     "coverage": "istanbul cover node_modules/mocha/bin/_mocha",
     "doc": "jake doc",
-    "devdoc": "jake doc[dev]"
+    "devdoc": "jake doc[dev]",
+    "smoke": "node test/smoke.js"
   }
 }
