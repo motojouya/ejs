@@ -6,7 +6,7 @@
     "engine",
     "ejs"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Takuya Sugiyama <motojouya@gmail.com>",
   "license": "Apache-2.0",
   "main": "./lib/ejsql.js",
